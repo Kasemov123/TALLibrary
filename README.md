@@ -91,8 +91,10 @@ npm install && npm run dev
 cp .env.example .env
 php artisan key:generate
 php artisan migrate
-Make sure to configure your `.env` file with correct database credentials
 ```
+
+Make sure to configure your `.env` file with correct database credentials 
+
 ## 📄 License  
 This project is open-source and available under the MIT License.
 
